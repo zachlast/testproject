@@ -1,0 +1,9 @@
+All Around Security Manager App
+*******************************
+
+This security manager application will be the solution to all your security needs. 
+From password storage, password generation, real-time protection, and two-step authentication. 
+This application will put you at ease knowing all your information is safe and encrypted. 
+The application will be easy to use and accessible to all people. 
+It will protect and/or store all important information and leave you without worry. 
+The application is designed to add protection and convenience to its user's information on any device they wish to use it on.
